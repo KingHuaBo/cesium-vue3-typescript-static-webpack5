@@ -48,20 +48,20 @@
 5. vue 3.2.13
 6. cesium 1.91.0
 7. 开发工具 vscode
-## Project setup
+
+## 还原安装依赖包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 发布打包项目
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 能力有限，如有帮助，欢迎赏Issues or Star

@@ -13,7 +13,7 @@
     ``` 
 2. vue-cli和webpack版本问题：
     
-    本项目采用vue-cli 5.0.3构建项目，内置webpack 5.70.0版本，如果采用vue/cli 4.5.17内置webpack4的版本，配置更简单，详细请跳转到[cesium-vue3-typescript-static-webpack4]()在html中引用cesium后，在App.vue中用如下代码导入Cesium。
+    本项目采用vue-cli 5.0.3构建项目，内置webpack 5.70.0版本，如果采用vue/cli 4.5.17内置webpack4的版本，配置更简单，详细请跳转到[cesium-vue3-typescript-static-webpack4](https://github.com/KingHuaBo/cesium-vue3-typescript-static-webpack4)在html中引用cesium后，在App.vue中用如下代码导入Cesium。
     ```
     import * as Cesium from "cesium";
     ```
